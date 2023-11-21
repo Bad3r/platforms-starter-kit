@@ -41,7 +41,7 @@
     "lucide-react": "^0.244.0",
     "nanoid": "^4.0.2",
     "next": "13.4.10-canary.2",
-    "next-auth": "4.22.1",
+    "next-auth": "4.24.5",
     "next-mdx-remote": "^4.4.1",
     "openai-edge": "^1.2.0",
     "react": "^18.2.0",
