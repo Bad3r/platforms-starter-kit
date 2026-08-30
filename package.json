@@ -37,7 +37,7 @@
     "focus-trap-react": "^10.2.1",
     "framer-motion": "^10.12.18",
     "gray-matter": "^4.0.3",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.7",
     "lucide-react": "^0.244.0",
     "nanoid": "^4.0.2",
     "next": "13.4.10-canary.2",
